@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/code/extract_visual/build/src",
+  "command": "C:\\source\\mingw64\\bin\\g++.exe  @CMakeFiles/Extract.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Extract.dir\\extract_c++.cpp.obj -c C:\\code\\extract_visual\\src\\extract_c++.cpp",
+  "file": "C:/code/extract_visual/src/extract_c++.cpp",
+  "output": "src/CMakeFiles/Extract.dir/extract_c++.cpp.obj"
+}
+]

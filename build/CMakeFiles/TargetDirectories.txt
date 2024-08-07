@@ -1,0 +1,5 @@
+C:/code/extract_visual/build/CMakeFiles/edit_cache.dir
+C:/code/extract_visual/build/CMakeFiles/rebuild_cache.dir
+C:/code/extract_visual/build/src/CMakeFiles/Extract.dir
+C:/code/extract_visual/build/src/CMakeFiles/edit_cache.dir
+C:/code/extract_visual/build/src/CMakeFiles/rebuild_cache.dir
