@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Extract.dir/objects.a
+C:\source\mingw64\bin\ar.exe qc CMakeFiles\Extract.dir/objects.a @CMakeFiles\Extract.dir\objects1.rsp
+C:\source\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Extract.dir/objects.a -Wl,--no-whole-archive -o Extract.exe -Wl,--out-implib,libExtract.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Extract.dir\linkLibs.rsp

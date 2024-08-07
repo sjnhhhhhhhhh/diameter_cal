@@ -1,0 +1,1021 @@
+---start cal short dia---
+current point:
+364.763
+ 171.21
+current point:
+364.779
+170.912
+current point:
+364.801
+170.607
+current point:
+364.854
+170.307
+current point:
+364.997
+170.046
+current point:
+366.147
+169.116
+current point:
+366.427
+169.068
+current point:
+367.356
+169.055
+current point:
+367.653
+169.079
+current point:
+364.899
+172.128
+current point:
+364.804
+171.832
+current point:
+364.766
+171.516
+Contour sliceId 141:
+  Calculated long diameter: 4.21891
+  Calculated short diameter: 2.7173
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+363.824
+171.762
+current point:
+363.827
+171.458
+current point:
+363.835
+171.142
+current point:
+363.846
+170.823
+current point:
+363.874
+170.517
+current point:
+363.931
+170.242
+current point:
+ 364.03
+170.005
+current point:
+364.591
+168.896
+current point:
+364.757
+168.671
+current point:
+ 364.94
+168.433
+current point:
+365.135
+168.196
+current point:
+365.361
+168.003
+current point:
+365.884
+167.689
+current point:
+366.182
+ 167.66
+current point:
+366.485
+167.666
+current point:
+364.949
+173.818
+current point:
+364.306
+173.165
+current point:
+364.135
+172.916
+current point:
+364.019
+172.638
+current point:
+363.938
+172.348
+current point:
+363.859
+172.056
+Contour sliceId 142:
+  Calculated long diameter: 6.37394
+  Calculated short diameter: 4.55466
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+363.662
+ 171.29
+current point:
+363.667
+170.985
+current point:
+363.681
+ 170.68
+current point:
+363.732
+169.765
+current point:
+363.984
+169.197
+current point:
+364.138
+168.956
+current point:
+ 364.22
+168.842
+current point:
+364.424
+168.573
+current point:
+364.683
+168.262
+current point:
+365.328
+167.578
+current point:
+ 365.54
+167.366
+current point:
+366.096
+  167.1
+current point:
+366.392
+167.062
+current point:
+364.346
+173.576
+current point:
+364.162
+173.343
+current point:
+364.015
+173.075
+current point:
+363.903
+172.791
+current point:
+363.817
+172.498
+current point:
+363.752
+172.199
+current point:
+363.701
+171.898
+current point:
+363.672
+171.595
+Contour sliceId 143:
+  Calculated long diameter: 7.36261
+  Calculated short diameter: 4.93922
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+364.222
+171.297
+current point:
+364.229
+170.993
+current point:
+ 364.24
+170.693
+current point:
+364.253
+170.395
+current point:
+364.269
+170.096
+current point:
+364.289
+169.795
+current point:
+364.316
+ 169.49
+current point:
+ 364.37
+169.193
+current point:
+364.481
+168.921
+current point:
+364.646
+168.674
+current point:
+364.835
+168.433
+current point:
+365.026
+168.196
+current point:
+365.943
+ 167.41
+current point:
+366.218
+167.331
+current point:
+366.524
+167.322
+current point:
+ 365.76
+174.298
+current point:
+365.551
+174.239
+current point:
+365.201
+174.082
+current point:
+365.009
+173.858
+current point:
+364.482
+172.768
+current point:
+364.408
+ 172.48
+current point:
+364.334
+172.189
+current point:
+364.262
+171.899
+current point:
+364.229
+  171.6
+Contour sliceId 144:
+  Calculated long diameter: 7.09186
+  Calculated short diameter: 4.24437
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+366.205
+171.924
+current point:
+366.265
+171.777
+current point:
+366.426
+171.447
+current point:
+366.661
+  171.1
+current point:
+366.367
+172.096
+Contour sliceId 145:
+  Calculated long diameter: 1.46771
+  Calculated short diameter: 0.89559
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+93.4314
+213.513
+current point:
+93.4358
+211.349
+current point:
+93.4729
+ 211.07
+current point:
+93.6033
+ 210.85
+current point:
+94.8869
+209.587
+current point:
+97.6698
+216.549
+current point:
+96.4257
+216.555
+current point:
+96.1351
+216.544
+current point:
+95.8861
+216.429
+current point:
+ 93.745
+214.288
+current point:
+93.5426
+214.072
+current point:
+93.4401
+213.812
+Contour sliceId 146:
+  Calculated long diameter: 7.63415
+  Calculated short diameter: 5.83546
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+93.4495
+213.615
+current point:
+93.4519
+212.349
+current point:
+93.4752
+212.072
+current point:
+93.5986
+211.852
+current point:
+94.8906
+210.581
+current point:
+95.2007
+ 210.41
+current point:
+95.5029
+210.391
+current point:
+97.6154
+210.431
+current point:
+ 97.909
+210.468
+current point:
+98.1793
+210.601
+current point:
+93.4705
+213.903
+Contour sliceId 147:
+  Calculated long diameter: 5.85901
+  Calculated short diameter: 4.95803
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+93.3899
+212.379
+current point:
+93.4617
+212.081
+current point:
+93.6088
+ 211.85
+current point:
+94.8926
+210.579
+current point:
+95.2038
+210.409
+current point:
+95.5071
+210.392
+current point:
+97.6307
+210.433
+current point:
+ 97.922
+210.472
+current point:
+98.1835
+210.606
+current point:
+ 98.398
+210.828
+current point:
+93.4004
+212.703
+Contour sliceId 148:
+  Calculated long diameter: 5.38854
+  Calculated short diameter: 3.93887
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+173.964
+259.135
+current point:
+173.964
+258.834
+current point:
+173.993
+258.538
+current point:
+174.058
+258.248
+current point:
+ 174.15
+257.963
+current point:
+174.448
+257.106
+current point:
+175.528
+256.068
+current point:
+175.779
+255.943
+current point:
+  175.2
+261.998
+current point:
+174.923
+261.903
+current point:
+ 174.68
+261.706
+current point:
+174.529
+261.462
+current point:
+174.039
+260.044
+current point:
+174.008
+259.743
+current point:
+173.982
+259.439
+Contour sliceId 48:
+  Calculated long diameter: 6.28169
+  Calculated short diameter: 3.61516
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+174.335
+258.771
+current point:
+174.461
+257.567
+current point:
+174.513
+257.274
+current point:
+174.618
+256.994
+current point:
+174.764
+256.727
+current point:
+174.925
+ 256.47
+current point:
+175.087
+256.216
+current point:
+ 175.44
+255.726
+current point:
+175.616
+255.498
+current point:
+ 176.13
+255.154
+current point:
+176.429
+255.102
+current point:
+175.653
+261.994
+current point:
+ 175.39
+261.812
+current point:
+175.174
+261.598
+current point:
+174.823
+261.104
+current point:
+174.668
+260.848
+current point:
+174.555
+260.569
+current point:
+174.487
+260.277
+current point:
+174.452
+259.979
+Contour sliceId 49:
+  Calculated long diameter: 7.15542
+  Calculated short diameter: 4.27662
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+174.698
+ 257.62
+current point:
+174.718
+257.314
+current point:
+174.821
+257.035
+current point:
+175.037
+256.467
+current point:
+175.453
+255.667
+current point:
+175.621
+255.418
+current point:
+176.031
+254.971
+current point:
+176.246
+254.756
+current point:
+176.542
+254.691
+current point:
+ 177.13
+254.564
+current point:
+177.431
+254.535
+current point:
+177.735
+254.554
+current point:
+ 176.23
+261.176
+current point:
+175.954
+261.068
+current point:
+175.428
+260.756
+current point:
+175.214
+260.543
+current point:
+175.039
+260.294
+current point:
+174.901
+260.025
+current point:
+174.807
+259.737
+current point:
+174.757
+259.439
+current point:
+174.736
+259.135
+current point:
+174.725
+258.833
+current point:
+174.715
+258.532
+current point:
+174.707
+258.231
+current point:
+174.701
+257.928
+Contour sliceId 50:
+  Calculated long diameter: 6.84245
+  Calculated short diameter: 4.65701
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+175.104
+258.239
+current point:
+175.111
+257.934
+current point:
+175.137
+ 257.63
+current point:
+175.184
+257.329
+current point:
+ 175.25
+257.031
+current point:
+ 175.35
+256.744
+current point:
+175.498
+256.477
+current point:
+175.669
+256.221
+current point:
+175.845
+255.971
+current point:
+176.031
+ 255.73
+current point:
+176.235
+255.505
+current point:
+176.461
+255.299
+current point:
+176.704
+255.115
+current point:
+176.961
+254.951
+current point:
+177.236
+254.819
+current point:
+177.531
+254.737
+current point:
+177.832
+254.715
+current point:
+178.137
+254.737
+current point:
+176.191
+260.305
+current point:
+175.943
+260.131
+current point:
+175.737
+259.906
+current point:
+ 175.55
+259.666
+current point:
+175.374
+259.415
+current point:
+175.239
+259.143
+current point:
+175.162
+258.848
+current point:
+175.121
+258.544
+Contour sliceId 51:
+  Calculated long diameter: 6.06666
+  Calculated short diameter: 4.3831
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+176.182
+257.941
+current point:
+176.621
+256.506
+current point:
+176.746
+256.233
+current point:
+ 176.98
+256.056
+current point:
+177.266
+255.926
+current point:
+177.544
+255.801
+current point:
+178.146
+255.652
+current point:
+176.654
+259.751
+current point:
+ 176.43
+259.438
+current point:
+176.254
+259.142
+current point:
+176.195
+258.861
+Contour sliceId 52:
+  Calculated long diameter: 4.63144
+  Calculated short diameter: 2.72458
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+100.843
+266.664
+current point:
+101.175
+265.253
+current point:
+101.253
+ 264.95
+current point:
+101.509
+ 264.82
+current point:
+101.833
+264.793
+current point:
+102.133
+264.775
+current point:
+102.425
+264.762
+current point:
+102.724
+ 264.75
+current point:
+103.028
+264.752
+current point:
+103.329
+264.784
+current point:
+103.623
+264.854
+current point:
+103.896
+264.987
+Contour sliceId 147:
+  Calculated long diameter: 3.6756
+  Calculated short diameter: 2.52872
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+100.471
+265.452
+current point:
+100.497
+265.151
+current point:
+100.593
+264.863
+current point:
+100.757
+264.607
+current point:
+101.171
+264.166
+current point:
+101.384
+263.973
+current point:
+102.303
+263.946
+current point:
+102.597
+263.946
+current point:
+102.896
+263.962
+current point:
+103.512
+263.995
+current point:
+101.046
+267.524
+current point:
+100.664
+266.946
+current point:
+100.488
+266.058
+current point:
+100.475
+265.755
+Contour sliceId 148:
+  Calculated long diameter: 4.44157
+  Calculated short diameter: 4.02149
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+100.533
+265.719
+current point:
+100.546
+265.406
+current point:
+100.619
+265.107
+current point:
+100.785
+264.869
+current point:
+101.045
+264.707
+current point:
+101.578
+264.408
+current point:
+102.784
+264.354
+current point:
+103.073
+264.368
+current point:
+103.373
+264.418
+current point:
+101.431
+267.616
+current point:
+101.258
+267.365
+current point:
+101.095
+267.111
+current point:
+100.942
+266.853
+current point:
+  100.8
+266.586
+current point:
+100.672
+266.308
+current point:
+100.574
+266.018
+Contour sliceId 149:
+  Calculated long diameter: 3.94688
+  Calculated short diameter: 3.83437
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+169.394
+295.324
+current point:
+169.253
+295.619
+current point:
+ 169.05
+295.816
+current point:
+168.779
+295.857
+current point:
+167.294
+295.692
+current point:
+166.919
+295.606
+current point:
+166.665
+295.515
+current point:
+166.473
+295.366
+current point:
+166.201
+295.109
+current point:
+166.039
+294.869
+current point:
+165.904
+ 294.59
+Contour sliceId 52:
+  Calculated long diameter: 3.69613
+  Calculated short diameter: 2.13604
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+ 166.35
+296.177
+current point:
+169.954
+297.373
+current point:
+169.718
+297.558
+current point:
+169.152
+297.767
+current point:
+168.797
+297.794
+current point:
+ 168.53
+297.747
+current point:
+167.948
+297.584
+current point:
+167.683
+297.468
+current point:
+166.879
+296.958
+current point:
+166.629
+296.759
+current point:
+166.443
+ 296.49
+Contour sliceId 53:
+  Calculated long diameter: 4.40519
+  Calculated short diameter: 3.37437
+
+
+-------short dia-------
+
+---start cal short dia---
+current point:
+166.638
+297.092
+current point:
+169.996
+297.801
+current point:
+169.757
+297.996
+current point:
+169.478
+ 298.13
+current point:
+169.189
+298.212
+current point:
+168.889
+298.251
+current point:
+168.584
+298.257
+current point:
+168.277
+ 298.24
+current point:
+167.983
+298.216
+current point:
+167.701
+298.176
+current point:
+167.403
+298.055
+current point:
+167.084
+297.816
+current point:
+166.921
+297.667
+current point:
+166.735
+297.389
+Contour sliceId 54:
+  Calculated long diameter: 3.66998
+  Calculated short diameter: 3.05008
