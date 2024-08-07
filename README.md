@@ -25,3 +25,5 @@ Graham扫描算法求凸包，基本原理是利用叉积判断两个向量的�
 
 # 使用须知
 库的路径自行更改，包括cmakelists中以及extract_visual、vis.py中
+自行安装Eigen库和openCV库，openCV库
+我用的MinGW编译和openCV打包的编译冲突麻烦的一笔所以用的python
