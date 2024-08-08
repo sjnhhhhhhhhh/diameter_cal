@@ -54,7 +54,7 @@ def visualize_hull(hull, bounds, diameter):
     slice_id, p1, p2, p3, p4 = diameter
     min_x, min_y, max_x, max_y = bounds
 
-    # 计算图像尺寸和缩放比例
+    # 计算图像尺寸和缩放比例 
     img_size = 800  # 固定图像大小
     scale_x = img_size / (max_x - min_x + 20)
     scale_y = img_size / (max_y - min_y + 20)

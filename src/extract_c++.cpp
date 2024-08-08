@@ -174,6 +174,8 @@ int main() {
                 Vector2d p3, p4;
                 double minor_axis_length = cal_minor_axis(hull, p1, p2, p3, p4);
 
+               
+
                 // 输出结果到文件
                 output_file << contour["sliceId"] << " "
                             << p1.x() << " " << p1.y() << " " << p2.x() << " " << p2.y() << " "
