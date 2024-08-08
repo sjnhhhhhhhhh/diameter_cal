@@ -141,9 +141,9 @@ def visualize_hull(hull, bounds, diameter, axes):
 
 def main():
     # JSON 文件路径
-    json_file_path = 'C:/code/extract_visual/src/predict_ct_chest_vr-0722.json'
+    json_file_path = 'C:/code/extract_visual/json/41.json'
     # 长径和短径文件路径
-    diameters_file_path = 'C:/code/extract_visual/src/diameters_output.txt'
+    diameters_file_path = 'C:/code/extract_visual/output/41.txt'
 
     # 从 JSON 文件中提取数据
     data = load_json(json_file_path)

@@ -128,10 +128,10 @@ double cal_minor_axis(const std::vector<Eigen::Vector2d>& hull, const Vector2d& 
 
 int main() {
     // JSON 文件路径
-    std::string file_path = "C:/code/extract_visual/src/predict_ct_chest_vr-0722.json"; // 确保路径正确
+    std::string file_path = "C:/code/extract_visual/json/41.json"; // 确保路径正确
 
     // 输出文件路径
-    std::string output_file_path = "C:/code/extract_visual/src/diameters_output.txt";
+    std::string output_file_path = "C:/code/extract_visual/output/41.txt";
     std::ofstream output_file(output_file_path);
     if (!output_file.is_open()) {
         std::cerr << "Error opening output file: " << output_file_path << std::endl;
